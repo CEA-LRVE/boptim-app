@@ -1,0 +1,3 @@
+[submodule "boptim"]
+	path = boptim
+	url = https://github.com/CEA-LRVE/boptim.git
