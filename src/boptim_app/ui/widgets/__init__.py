@@ -1,0 +1,1 @@
+from boptim_app.ui.widgets.MyWidget import MyWidget
